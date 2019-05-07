@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/May/2019:15:11:08 +0200] "GET /cargocpc/index.html HTTP/1.1" 200 124
+127.0.0.1 - - [07/May/2019:15:11:11 +0200] "GET /annuaire/annuaire HTTP/1.1" 302 -
+127.0.0.1 - - [07/May/2019:15:11:11 +0200] "GET /annuaire/connexion HTTP/1.1" 200 2289
+127.0.0.1 - - [07/May/2019:15:11:12 +0200] "GET /favicon.ico HTTP/1.1" 404 1000
+127.0.0.1 - - [07/May/2019:15:11:14 +0200] "POST /annuaire/connexion HTTP/1.1" 302 -
+127.0.0.1 - - [07/May/2019:15:11:14 +0200] "GET /annuaire/annuaire HTTP/1.1" 200 9408
+127.0.0.1 - - [07/May/2019:15:11:31 +0200] "GET /annuaire/supprimer HTTP/1.1" 200 2937
+127.0.0.1 - - [07/May/2019:15:11:32 +0200] "GET /annuaire/ajouter HTTP/1.1" 200 4503
+127.0.0.1 - - [07/May/2019:15:11:33 +0200] "GET /annuaire/supprimer HTTP/1.1" 200 2937
+127.0.0.1 - - [07/May/2019:15:11:33 +0200] "GET /favicon.ico HTTP/1.1" 404 1000
+127.0.0.1 - - [07/May/2019:15:13:04 +0200] "GET /annuaire/annuaire HTTP/1.1" 200 9408
+127.0.0.1 - - [07/May/2019:15:13:04 +0200] "GET /favicon.ico HTTP/1.1" 404 1000

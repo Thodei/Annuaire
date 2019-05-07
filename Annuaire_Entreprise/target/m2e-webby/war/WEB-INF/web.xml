@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+		 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+
+  <servlet>
+    <servlet-name>Connexion</servlet-name>
+    <servlet-class>servlet.Connexion</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Annuaire</servlet-name>
+    <servlet-class>servlet.Annuaire</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Deconnexion</servlet-name>
+    <servlet-class>servlet.Deconnexion</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Ajouter</servlet-name>
+    <servlet-class>servlet.Ajouter</servlet-class>
+  </servlet>
+    <servlet>
+    <servlet-name>Supprimer</servlet-name>
+    <servlet-class>servlet.Supprimer</servlet-class>
+  </servlet>
+
+  
+  <servlet-mapping>
+    <servlet-name>Connexion</servlet-name>
+    <url-pattern>/connexion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Annuaire</servlet-name>
+    <url-pattern>/annuaire</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>Deconnexion</servlet-name>
+    <url-pattern>/deconnexion</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>Ajouter</servlet-name>
+    <url-pattern>/ajouter</url-pattern>
+  </servlet-mapping>
+     <servlet-mapping>
+    <servlet-name>Supprimer</servlet-name>
+    <url-pattern>/supprimer</url-pattern>
+  </servlet-mapping>
+</web-app>
