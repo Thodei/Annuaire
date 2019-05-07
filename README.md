@@ -32,7 +32,7 @@ Il y a 2 utilisateurs, le plus simple est :
 ## Notes
 - Les mots de passe ne sont pas cryptés dans la BDD pour éviter de perdre du temps sur le developpement et la saisie de données
 
-- La plupart des tests ont été faits sur Firefox 66.0.4 donc certaines choses risquent de ne pas fonctionner sur les autres navigateurs (notamment les formulaires)
+- La plupart des tests ont été faits sur Firefox 66.0.4 donc certaines choses risquent de mal fonctionner sur les autres navigateurs (notamment les formulaires)
 
 - Projet créé en partie grâce au [cours d'openclassroom sur Java EE]( https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee )
 
