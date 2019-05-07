@@ -2,7 +2,11 @@
 # TP SUJET N°1 : Annuaire d'entreprise
 Projet JavaEE dans le cadre de la LP - GL (Mai 2019)
 ## Construction et lancement de l'application
-Importer le projet 
+Importer le projet dans Eclipse (.settings, .classpath et .project envoyés en PJ par mail si nécessaire)
+
+Importer la BDD grâce au script fourni (SCRIPT_BDD.sql)
+
+Lancer l'application. Le lien de connexion est : http://localhost:8080/annuaire/connexion
 
 ## Technologies utilisées
 - Serveur d'application : Apache Tomcat 9.0.19 (+ Webby)
@@ -12,7 +16,7 @@ Importer le projet
 - Apache Maven 3.6.0
 ## Tâches 
 #### Tâches effectuées
-- [x] Connexion/Déconnexion
+- [x] Connexion/Déconnexion (+ redirection vers la page de connexion)
 - [x] Recherche dans l'annuaire
 - [x] Ajouter une personne dans l'annuaire
 - [x] Supprimer une personne de l'annuaire
