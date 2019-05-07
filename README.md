@@ -8,7 +8,19 @@ Importer le projet
 - Serveur d'application : Apache Tomcat 9.0.19 (+ Webby)
 - BDD : MariaDB 10.1.38
 - Frontend : JSP, Boostrap
+- IDE : Eclipse 2018-12 (4.10.0)
 - Apache Maven 3.6.0
+## Tâches 
+#### Tâches effectuées
+- [x] Connexion/Déconnexion
+- [x] Recherche dans l'annuaire
+- [x] Ajouter une personne dans l'annuaire
+- [x] Supprimer une personne de l'annuaire
+#### Tâches non effectuées
+- [ ] Modifier une personne
+- [ ] Une personne par poste
+- [ ] Notification
+- [ ] Résponsable hiérarchique
 ## Notes
 - Les mots de passe ne sont pas cryptés dans la BDD pour éviter de perdre du temps sur le developpement et la saisie de données
 
