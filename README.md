@@ -8,6 +8,10 @@ Importer la BDD grâce au script fourni (SCRIPT_BDD.sql)
 
 Lancer l'application. Le lien de connexion est : http://localhost:8080/annuaire/connexion
 
+Il y a 2 utilisateurs, le plus simple est :
+- admin
+- admin
+
 ## Technologies utilisées
 - Serveur d'application : Apache Tomcat 9.0.19 (+ Webby)
 - BDD : MariaDB 10.1.38
