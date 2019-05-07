@@ -1,9 +1,14 @@
 # Deiss Thomas 
 # TP SUJET N°1 : Annuaire d'entreprise
 Projet JavaEE dans le cadre de la LP - GL (Mai 2019)
+## Construction et lancement de l'application
+Importer le projet 
+
 ## Technologies utilisées
 - Serveur d'application : Apache Tomcat 9.0.19 (+ Webby)
+- BDD : MariaDB 10.1.38
 - Frontend : JSP, Boostrap
+- Apache Maven 3.6.0
 ## Notes
 - Les mots de passe ne sont pas cryptés dans la BDD pour éviter de perdre du temps sur le developpement et la saisie de données
 
@@ -13,3 +18,4 @@ Projet JavaEE dans le cadre de la LP - GL (Mai 2019)
 
 - [Fonction "chercher()" de la barre de recherche](https://www.w3schools.com/howto/howto_js_filter_table.asp) (modifiée)
 
+- [Documentation Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
